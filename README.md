@@ -7,6 +7,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge)
 
+</div>
+
+---
+
 ## 🎬 Quick Preview
 
 ```
