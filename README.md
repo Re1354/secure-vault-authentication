@@ -7,27 +7,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge)
 
-### 🔐 Secure | 🎨 Modern | ⚡ Fast
-
-_A production-ready, scalable authentication system built with modern web
-technologies, featuring JWT-based security, RESTful API architecture, and an
-intuitive user interface._
-
-</div>
-
----
-
-## ✨ What Makes This Special?
-
-🎯 **JWT-Based Authentication** - Industry-standard token security  
-🔒 **BCrypt Encryption** - Military-grade password protection  
-🎨 **Tailwind CSS** - Stunning, responsive design  
-⚡ **Lightning Fast** - Vite-powered development  
-📱 **Mobile Ready** - Works perfectly on all devices  
-🛡️ **Session Management** - Secure user sessions with MongoDB
-
----
-
 ## 🎬 Quick Preview
 
 ```
@@ -233,46 +212,6 @@ npm run dev
 **🎉 Done! Visit http://localhost:5174**
 
 ---
-
-## 📡 API Endpoints
-
-### Example Request
-
-```javascript
-// Register
-POST /register
-{
-  "email": "user@example.com",
-  "password": "secure123"
-}
-
-// Response
-{
-  "message": "Registration successful",
-  "token": "eyJhbGc...",
-  "user": { "id": "...", "email": "..." }
-}
-```
-
----
-
----
-
----
-
-```bash
-cd client
-npm run build
-# Deploy dist/ folder
-```
-
-### Backend (Railway/Render)
-
-```bash
-cd Mongo1
-# Set environment variables
-npm start
-```
 
 ### Environment Variables
 
